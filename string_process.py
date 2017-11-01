@@ -31,7 +31,4 @@ def get_md5(string):
 
 
 if __name__ == '__main__':
-    f = open('C:\\Users\\Asuka\\Downloads\\nvshen\\nvshen.txt', 'r')
-    s = f.readline()
-    f2 = open('C:\\Users\\Asuka\\Downloads\\nvshen\\decode.png', 'wb')
-    f2.write(base64_decode(s))
+    # Your test code here
