@@ -106,11 +106,7 @@ def keyboard_code(text):
 
 
 def test():
-    test_str = 'RVF{Uryyb_Jbeyq}'
-    decoded = rot_n(test_str, 13)
-    decoded2 = rot_n(test_str, 13, False)
-    print decoded
-    print decoded2
+    # Your test code here
 
 
 if __name__ == '__main__':
