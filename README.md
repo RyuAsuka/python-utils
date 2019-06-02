@@ -11,5 +11,6 @@ Some useful utilities written in Python
 * **calendar.py** - A programme to output a calendar of specific year and month.
 * **split_file.py** - A file spliter to split a big file to many small files.
 * **mail_receiver.py** - A POP3 email receiver.
+* **color-code-change.py** - A simple CLI tool for converting RGB color code to HEX color code and vice versa.
 
 Waiting for updating...
