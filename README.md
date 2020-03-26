@@ -12,5 +12,6 @@ Some useful utilities written in Python
 * **split_file.py** - A file spliter to split a big file to many small files.
 * **mail_receiver.py** - A POP3 email receiver.
 * **color-code-change.py** - A simple CLI tool for converting RGB color code to HEX color code and vice versa.
+* **csv_to_arff.py** - A converter which can convert csv file (with column names) to arff file (using in Weka).
 
 Waiting for updating...
