@@ -8,7 +8,7 @@ Some useful utilities written in Python
 * **string_process.py** - Including URL encoding/decoding, Base64 encoding/decoding and MD5 Hash generating.
 * **time-blind-injection.py** - A time-blind-injection SQLMAP script
 * **TraditionalPassword.py** - Including ROT-N, Barrier encoding/decoding and Keyboard code.
-* **calendar.py** - A programme to output a calendar of specific year and month.
+* **mycalendar.py** - A programme to output a calendar of specific year and month. (Renamed from calendar to avoid name conflicts)
 * **split_file.py** - A file spliter to split a big file to many small files.
 * **mail_receiver.py** - A POP3 email receiver.
 * **color-code-change.py** - A simple CLI tool for converting RGB color code to HEX color code and vice versa.
